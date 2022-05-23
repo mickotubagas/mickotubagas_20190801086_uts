@@ -1,6 +1,6 @@
 # 20190801086 Micko Tubagas UTS - APP Pangan Marketplace
 
-flutter project app pencarian pangan marketplace
+flutter project app pencarian pangan marketplace (Dibutuhkan OS android 12)
 
 link apk download :
 https://drive.google.com/file/d/1GmV2jSArAzxdShkVPfhwqK3DsST5Qwpd/view?usp=sharing
